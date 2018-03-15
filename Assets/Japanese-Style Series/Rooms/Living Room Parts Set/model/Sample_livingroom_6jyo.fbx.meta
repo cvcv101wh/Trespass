@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: f22d3c171a2372748941b6281219b4bd
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: dento01
+    100002: door01
+    100004: door02
+    100006: door03
+    100008: door04
+    100010: door1
+    100012: door1 1
+    100014: door1 2
+    100016: door2
+    100018: door2 1
+    100020: door2 2
+    100022: door3
+    100024: door4
+    100026: hashira01
+    100028: hashira016
+    100030: hashira017
+    100032: hashira018
+    100034: hashira02
+    100036: hashira03
+    100038: hashira04
+    100040: husuma01
+    100042: husuma010
+    100044: husuma02
+    100046: husuma03
+    100048: mado01
+    100050: //RootNode
+    100052: Sample_livingroom_6jyo
+    100054: tatami01
+    100056: tenjyo01
+    100058: tenjyo01 1
+    100060: tutikabe01
+    100062: tutikabe02
+    100064: tutikabe03
+    400000: dento01
+    400002: door01
+    400004: door02
+    400006: door03
+    400008: door04
+    400010: door1
+    400012: door1 1
+    400014: door1 2
+    400016: door2
+    400018: door2 1
+    400020: door2 2
+    400022: door3
+    400024: door4
+    400026: hashira01
+    400028: hashira016
+    400030: hashira017
+    400032: hashira018
+    400034: hashira02
+    400036: hashira03
+    400038: hashira04
+    400040: husuma01
+    400042: husuma010
+    400044: husuma02
+    400046: husuma03
+    400048: mado01
+    400050: Sample_livingroom_6jyo
+    400052: //RootNode
+    400054: tatami01
+    400056: tenjyo01
+    400058: tenjyo01 1
+    400060: tutikabe01
+    400062: tutikabe02
+    400064: tutikabe03
+    2300000: dento01
+    2300002: door01
+    2300004: door02
+    2300006: door03
+    2300008: door04
+    2300010: door1
+    2300012: door1 1
+    2300014: door1 2
+    2300016: door2
+    2300018: door2 1
+    2300020: door2 2
+    2300022: door3
+    2300024: door4
+    2300026: hashira01
+    2300028: hashira016
+    2300030: hashira017
+    2300032: hashira018
+    2300034: hashira02
+    2300036: hashira03
+    2300038: hashira04
+    2300040: husuma01
+    2300042: husuma010
+    2300044: husuma02
+    2300046: husuma03
+    2300048: tatami01
+    2300050: tenjyo01
+    2300052: tenjyo01 1
+    2300054: tutikabe01
+    2300056: tutikabe02
+    2300058: tutikabe03
+    3300000: dento01
+    3300002: door01
+    3300004: door02
+    3300006: door03
+    3300008: door04
+    3300010: door1
+    3300012: door1 1
+    3300014: door1 2
+    3300016: door2
+    3300018: door2 1
+    3300020: door2 2
+    3300022: door3
+    3300024: door4
+    3300026: hashira01
+    3300028: hashira016
+    3300030: hashira017
+    3300032: hashira018
+    3300034: hashira02
+    3300036: hashira03
+    3300038: hashira04
+    3300040: husuma01
+    3300042: husuma010
+    3300044: husuma02
+    3300046: husuma03
+    3300048: tatami01
+    3300050: tenjyo01
+    3300052: tenjyo01 1
+    3300054: tutikabe01
+    3300056: tutikabe02
+    3300058: tutikabe03
+    4300000: tatami01
+    4300002: husuma01
+    4300004: door1
+    4300006: door2
+    4300008: door3
+    4300010: door4
+    4300012: husuma02
+    4300014: door1
+    4300016: door2
+    4300018: husuma03
+    4300020: door1
+    4300022: door2
+    4300024: dento01
+    4300026: tenjyo01
+    4300028: hashira01
+    4300030: hashira02
+    4300032: hashira03
+    4300034: hashira04
+    4300036: tutikabe01
+    4300038: tutikabe02
+    4300040: tutikabe03
+    4300042: tenjyo01
+    4300044: door01
+    4300046: door02
+    4300048: door03
+    4300050: door04
+    4300052: husuma010
+    4300054: hashira016
+    4300056: hashira017
+    4300058: hashira018
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

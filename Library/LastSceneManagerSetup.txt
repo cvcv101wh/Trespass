@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Trespass_hole.unity
+  isLoaded: 1
+  isActive: 1

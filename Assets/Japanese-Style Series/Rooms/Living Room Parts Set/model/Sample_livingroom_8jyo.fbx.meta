@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 2ca45c430d84d1541b65497dab9dcffb
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: black02
+    100002: dento01
+    100004: door1
+    100006: door1 1
+    100008: door1 2
+    100010: door2
+    100012: door2 1
+    100014: door2 2
+    100016: door3
+    100018: door3 1
+    100020: door3 2
+    100022: door4
+    100024: door4 1
+    100026: door4 2
+    100028: hashira01
+    100030: hashira019
+    100032: hashira02
+    100034: hashira03
+    100036: hashira04
+    100038: hashira05
+    100040: hashira06
+    100042: hashira07
+    100044: husuma01
+    100046: husuma02
+    100048: oshiire01
+    100050: //RootNode
+    100052: tatami01
+    100054: tenjyo01
+    100056: tenjyo1
+    100058: tutikabe01
+    100060: tutikabe013
+    100062: tutikabe014
+    100064: tutikabe015
+    100066: tutikabe03
+    100068: tutikabe04
+    100070: tutikabe05
+    400000: black02
+    400002: dento01
+    400004: door1
+    400006: door1 1
+    400008: door1 2
+    400010: door2
+    400012: door2 1
+    400014: door2 2
+    400016: door3
+    400018: door3 1
+    400020: door3 2
+    400022: door4
+    400024: door4 1
+    400026: door4 2
+    400028: hashira01
+    400030: hashira019
+    400032: hashira02
+    400034: hashira03
+    400036: hashira04
+    400038: hashira05
+    400040: hashira06
+    400042: hashira07
+    400044: husuma01
+    400046: husuma02
+    400048: oshiire01
+    400050: //RootNode
+    400052: tatami01
+    400054: tenjyo01
+    400056: tenjyo1
+    400058: tutikabe01
+    400060: tutikabe013
+    400062: tutikabe014
+    400064: tutikabe015
+    400066: tutikabe03
+    400068: tutikabe04
+    400070: tutikabe05
+    2300000: black02
+    2300002: dento01
+    2300004: door1
+    2300006: door1 1
+    2300008: door1 2
+    2300010: door2
+    2300012: door2 1
+    2300014: door2 2
+    2300016: door3
+    2300018: door3 1
+    2300020: door3 2
+    2300022: door4
+    2300024: door4 1
+    2300026: door4 2
+    2300028: hashira01
+    2300030: hashira019
+    2300032: hashira02
+    2300034: hashira03
+    2300036: hashira04
+    2300038: hashira05
+    2300040: hashira06
+    2300042: hashira07
+    2300044: husuma01
+    2300046: husuma02
+    2300048: oshiire01
+    2300050: tatami01
+    2300052: tenjyo01
+    2300054: tenjyo1
+    2300056: tutikabe01
+    2300058: tutikabe013
+    2300060: tutikabe014
+    2300062: tutikabe015
+    2300064: tutikabe03
+    2300066: tutikabe04
+    2300068: tutikabe05
+    3300000: black02
+    3300002: dento01
+    3300004: door1
+    3300006: door1 1
+    3300008: door1 2
+    3300010: door2
+    3300012: door2 1
+    3300014: door2 2
+    3300016: door3
+    3300018: door3 1
+    3300020: door3 2
+    3300022: door4
+    3300024: door4 1
+    3300026: door4 2
+    3300028: hashira01
+    3300030: hashira019
+    3300032: hashira02
+    3300034: hashira03
+    3300036: hashira04
+    3300038: hashira05
+    3300040: hashira06
+    3300042: hashira07
+    3300044: husuma01
+    3300046: husuma02
+    3300048: oshiire01
+    3300050: tatami01
+    3300052: tenjyo01
+    3300054: tenjyo1
+    3300056: tutikabe01
+    3300058: tutikabe013
+    3300060: tutikabe014
+    3300062: tutikabe015
+    3300064: tutikabe03
+    3300066: tutikabe04
+    3300068: tutikabe05
+    4300000: tatami01
+    4300002: husuma01
+    4300004: door1
+    4300006: door2
+    4300008: door3
+    4300010: door4
+    4300012: husuma02
+    4300014: door1
+    4300016: door2
+    4300018: door3
+    4300020: door4
+    4300022: oshiire01
+    4300024: door1
+    4300026: door2
+    4300028: door3
+    4300030: door4
+    4300032: tenjyo1
+    4300034: tutikabe01
+    4300036: tutikabe03
+    4300038: tutikabe04
+    4300040: tutikabe05
+    4300042: tutikabe014
+    4300044: tutikabe015
+    4300046: dento01
+    4300048: tenjyo01
+    4300050: hashira01
+    4300052: hashira02
+    4300054: hashira03
+    4300056: hashira04
+    4300058: hashira05
+    4300060: hashira06
+    4300062: hashira07
+    4300064: tutikabe013
+    4300066: black02
+    4300068: hashira019
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

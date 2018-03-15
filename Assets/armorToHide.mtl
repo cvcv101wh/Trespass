@@ -1,0 +1,23 @@
+# Blender MTL File: 'Ninja Firend.blend'
+# Material Count: 2
+
+newmtl Character_Mat.002
+Ns 25.490196
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.389688 0.067208
+Ks 1.000000 0.934836 0.906752
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /U:/Dropbox/SyntyStudios/PolygonSamurai/Working/Justin/CharacterTexture/Characters_Texture_01.png
+
+newmtl Supporter
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.097711 0.044903 0.078070
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
